@@ -1,0 +1,55 @@
+Log Entry Time: 2024-12-09 21:26:05
+Blood Glucose: 16.20 mmol/L
+Target: 6.00 mmol/L
+Carbs: 50.00 g, Carb Ratio: 8.00/unit
+Correction Factor: 3 mmol/L/unit
+Correction Dosage: 3.40 units
+Total Insulin Dosage: 9.50 units
+Type: meal
+Log Entry Time: 2024-12-10 10:54:25
+Blood Glucose: 3.90 mmol/L
+Target: 6.00 mmol/L
+Carbs: 50.00 g, Carb Ratio: 8.00/unit
+Correction Factor: 3 mmol/L/unit
+Correction Dosage: 0.00 units
+Total Insulin Dosage: 6.50 units
+Type: meal
+Log Entry Time: 2024-12-10 17:29:43
+Blood Glucose: 10.30 mmol/L
+Target: 6.00 mmol/L
+Carbs: 45.00 g, Carb Ratio: 8.00/unit
+Correction Factor: 3 mmol/L/unit
+Correction Dosage: 1.43 units
+Total Insulin Dosage: 7.00 units
+Type: meal
+Log Entry Time: 2024-12-10 23:46:23
+Blood Glucose: 7.40 mmol/L
+Target: 6.00 mmol/L
+Carbs: 40.00 g, Carb Ratio: 8.00/unit
+Correction Factor: 2 mmol/L/unit
+Correction Dosage: 0.00 units
+Total Insulin Dosage: 5.00 units
+Type: meal
+Log Entry Time: 2024-12-11 14:49:42
+Blood Glucose: 23.00 mmol/L
+Target: 6.00 mmol/L
+Correction Factor: 3 mmol/L/unit
+Correction Dosage: 5.67 units
+Total Insulin Dosage: 5.50 units
+Type: correction
+Log Entry Time: 2024-12-11 18:20:04
+Blood Glucose: 8.70 mmol/L
+Target: 6.00 mmol/L
+Carbs: 40.00 g, Carb Ratio: 8.00/unit
+Correction Factor: 3 mmol/L/unit
+Correction Dosage: 0.90 units
+Total Insulin Dosage: 6.00 units
+Type: meal
+Log Entry Time: 2024-12-12 13:52:23
+Blood Glucose: 4.20 mmol/L
+Target: 6.00 mmol/L
+Carbs: 40.00 g, Carb Ratio: 8.00/unit
+Correction Factor: 3 mmol/L/unit
+Correction Dosage: 0.00 units
+Total Insulin Dosage: 5.00 units
+Type: meal

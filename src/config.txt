@@ -1,0 +1,4 @@
+blood glucose unit = mmol/L
+carb ratio = 8.00
+insulin sensitivity factor = 3
+target blood glucose = 6.00
